@@ -1,5 +1,5 @@
 {
-    "name": "tuusuario/nlogin",
+    "name": "leonardorrc/nlogin-composer",
     "description": "Synchronize nLogin accounts on your website using composer!",
     "type": "library",
     "license": "GPL-3.0",
