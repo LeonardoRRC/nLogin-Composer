@@ -23,6 +23,8 @@
  *
  */
 
+namespace NLogin\Algorithms;
+
 class Sha256 extends Algorithm {
 
 	/**

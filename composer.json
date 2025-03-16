@@ -1,0 +1,20 @@
+{
+    "name": "tuusuario/nlogin",
+    "description": "Synchronize nLogin accounts on your website using composer!",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Leonardo Reynoso",
+            "email": "quantum@thequantum.uk"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "NLogin\\": "src/"
+        }
+    }
+}

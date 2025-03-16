@@ -23,11 +23,14 @@
  *
  */
 
-require 'Algorithms/Algorithm.php';
-require 'Algorithms/AuthMe.php';
-require 'Algorithms/Bcrypt.php';
-require 'Algorithms/Sha256.php';
-require 'Algorithms/Sha512.php';
+namespace NLogin;
+ 
+use NLogin\Algorithms\Algorithm;
+use NLogin\Algorithms\AuthMe;
+use NLogin\Algorithms\Bcrypt;
+use NLogin\Algorithms\Sha256;
+use NLogin\Algorithms\Sha512;
+use mysqli;
 
 class nLogin
 {

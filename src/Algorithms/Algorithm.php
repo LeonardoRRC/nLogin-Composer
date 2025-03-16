@@ -23,6 +23,8 @@
  *
  */
 
+namespace NLogin\Algorithms;
+
 abstract class Algorithm {
 
 	/**

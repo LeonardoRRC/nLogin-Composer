@@ -23,6 +23,8 @@
  *
  */
 
+namespace NLogin\Algorithms;
+
 class AuthMe extends Algorithm {
 
 	/**
